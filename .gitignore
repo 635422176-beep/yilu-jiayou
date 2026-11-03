@@ -1,0 +1,25 @@
+# 依赖
+node_modules/
+
+# 构建产物（含 HBuilderX 编译输出与按平台分包）
+unpackage/
+dist/
+
+# Electron 已打包产物
+electron/dist/
+
+# 压缩包 / 安装包
+*.7z
+*.zip
+*.exe
+*.dmg
+*.AppImage
+*.tar.gz
+
+# 系统
+.DS_Store
+Thumbs.db
+*.log
+
+# 本地临时
+static/_content_local/

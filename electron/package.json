@@ -1,0 +1,42 @@
+{
+  "name": "memory-app-electron",
+  "version": "1.0.0",
+  "description": "益禄加油工具 Windows 桌面端（Electron 包裹 uni-app H5 构建）",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "pack": "electron-builder --win nsis"
+  },
+  "build": {
+    "appId": "cn.memory.app",
+    "productName": "益禄加油",
+    "directories": {
+      "output": "dist"
+    },
+    "files": [
+      "main.js",
+      "preload.js",
+      "package.json"
+    ],
+    "extraResources": [
+      {
+        "from": "../unpackage/dist/build/web",
+        "to": "h5"
+      }
+    ],
+    "win": {
+      "target": "nsis",
+      "sign": "sign-noop.js"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true
+    }
+  },
+  "devDependencies": {
+    "electron": "^30.0.0",
+    "electron-builder": "^24.13.3"
+  }
+}

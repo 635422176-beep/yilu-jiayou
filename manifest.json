@@ -1,0 +1,52 @@
+{
+    "name" : "益禄加油",
+    "appid" : "__UNI__E65BDCF",
+    "description" : "间隔重复记忆背诵工具（医学/知识类）",
+    "versionName" : "1.0.0",
+    "versionCode" : "100",
+    "transformPx" : false,
+    "app-plus" : {
+        "modules" : {
+            "Push" : {}
+        },
+        "distribute" : {
+            "android" : {
+                "permissions" : [
+                    "<uses-permission android:name=\"android.permission.INTERNET\"/>",
+                    "<uses-permission android:name=\"android.permission.RECEIVE_USER_PRESENT\"/>",
+                    "<uses-permission android:name=\"android.permission.POST_NOTIFICATIONS\"/>"
+                ]
+            },
+            "ios" : {
+                "UIBackgroundModes" : [ "remote-notification" ]
+            },
+            "sdkConfigs" : {}
+        }
+    },
+    "mp-weixin" : {
+        "appid" : "touristappid",
+        "setting" : {
+            "urlCheck" : false,
+            "es6ToEs5" : true,
+            "minified" : true
+        },
+        "usingComponents" : true
+    },
+    "harmony" : {
+        "appid" : "touristappid",
+        "setting" : {
+            "urlCheck" : false,
+            "es6ToEs5" : true,
+            "minified" : true
+        },
+        "usingComponents" : true
+    },
+    "h5" : {
+        "publicPath" : "./",
+        "router" : {
+            "mode" : "hash",
+            "base" : "./"
+        }
+    },
+    "vueVersion" : "3"
+}

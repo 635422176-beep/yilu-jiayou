@@ -1,0 +1,1122 @@
+[
+ {
+  "id": "中医教材_中医儿科学_2",
+  "title": "中医儿科学",
+  "category": "中医教材",
+  "group": "中医教材",
+  "wordCount": 190135,
+  "chapterCount": 83
+ },
+ {
+  "id": "中医教材_中医外科学_2",
+  "title": "中医外科学",
+  "category": "中医教材",
+  "group": "中医教材",
+  "wordCount": 291233,
+  "chapterCount": 90
+ },
+ {
+  "id": "中医教材_中医妇科学_2",
+  "title": "中医妇科学",
+  "category": "中医教材",
+  "group": "中医教材",
+  "wordCount": 279262,
+  "chapterCount": 197
+ },
+ {
+  "id": "中医教材_中医急诊学",
+  "title": "中医急诊学",
+  "category": "中医教材",
+  "group": "中医教材",
+  "wordCount": 137024,
+  "chapterCount": 116
+ },
+ {
+  "id": "中医教材_中医气功学",
+  "title": "中医气功学",
+  "category": "中医教材",
+  "group": "中医教材",
+  "wordCount": 245421,
+  "chapterCount": 253
+ },
+ {
+  "id": "中医教材_中医眼科学_2",
+  "title": "中医眼科学",
+  "category": "中医教材",
+  "group": "中医教材",
+  "wordCount": 153984,
+  "chapterCount": 164
+ },
+ {
+  "id": "中医教材_中医诊断学_2",
+  "title": "中医诊断学",
+  "category": "中医教材",
+  "group": "中医教材",
+  "wordCount": 175994,
+  "chapterCount": 100
+ },
+ {
+  "id": "中医教材_中医骨伤科学",
+  "title": "中医骨伤科学",
+  "category": "中医教材",
+  "group": "中医教材",
+  "wordCount": 217089,
+  "chapterCount": 54
+ },
+ {
+  "id": "中医教材_中药分析",
+  "title": "中药分析",
+  "category": "中医教材",
+  "group": "中医教材",
+  "wordCount": 237998,
+  "chapterCount": 296
+ },
+ {
+  "id": "中医教材_中药学_2",
+  "title": "中药学",
+  "category": "中医教材",
+  "group": "中医教材",
+  "wordCount": 308886,
+  "chapterCount": 72
+ },
+ {
+  "id": "中医教材_中药炮制学",
+  "title": "中药炮制学",
+  "category": "中医教材",
+  "group": "中医教材",
+  "wordCount": 358324,
+  "chapterCount": 237
+ },
+ {
+  "id": "中医教材_中药药剂学_第4版",
+  "title": "中药药剂学  第4版",
+  "category": "中医教材",
+  "group": "中医教材",
+  "wordCount": 317565,
+  "chapterCount": 447
+ },
+ {
+  "id": "中医教材_中西医结合耳鼻咽喉科学",
+  "title": "中西医结合耳鼻咽喉科学",
+  "category": "中医教材",
+  "group": "中医教材",
+  "wordCount": 185925,
+  "chapterCount": 286
+ },
+ {
+  "id": "中医教材_中西医结合骨伤科学",
+  "title": "中西医结合骨伤科学",
+  "category": "中医教材",
+  "group": "中医教材",
+  "wordCount": 232513,
+  "chapterCount": 155
+ },
+ {
+  "id": "中医教材_人体解剖学",
+  "title": "人体解剖学",
+  "category": "中医教材",
+  "group": "中医教材",
+  "wordCount": 134528,
+  "chapterCount": 113
+ },
+ {
+  "id": "中医教材_内科学_中西医结合",
+  "title": "内科学 中西医结合",
+  "category": "中医教材",
+  "group": "中医教材",
+  "wordCount": 205522,
+  "chapterCount": 569
+ },
+ {
+  "id": "中医教材_内经选读",
+  "title": "内经选读",
+  "category": "中医教材",
+  "group": "中医教材",
+  "wordCount": 204935,
+  "chapterCount": 71
+ },
+ {
+  "id": "中医教材_医古文",
+  "title": "医古文",
+  "category": "中医教材",
+  "group": "中医教材",
+  "wordCount": 1104255,
+  "chapterCount": 33
+ },
+ {
+  "id": "中医教材_医患沟通技能_中西医结合",
+  "title": "医患沟通技能 中西医结合",
+  "category": "中医教材",
+  "group": "中医教材",
+  "wordCount": 139058,
+  "chapterCount": 206
+ },
+ {
+  "id": "中医教材_卫生法学_中西医结合",
+  "title": "卫生法学 中西医结合",
+  "category": "中医教材",
+  "group": "中医教材",
+  "wordCount": 204366,
+  "chapterCount": 259
+ },
+ {
+  "id": "中医教材_外科学_中西医",
+  "title": "外科学 中西医",
+  "category": "中医教材",
+  "group": "中医教材",
+  "wordCount": 223043,
+  "chapterCount": 197
+ },
+ {
+  "id": "中医教材_康复医学",
+  "title": "康复医学",
+  "category": "中医教材",
+  "group": "中医教材",
+  "wordCount": 101762,
+  "chapterCount": 156
+ },
+ {
+  "id": "中医教材_推拿学",
+  "title": "推拿学",
+  "category": "中医教材",
+  "group": "中医教材",
+  "wordCount": 311066,
+  "chapterCount": 442
+ },
+ {
+  "id": "中医教材_方剂学",
+  "title": "方剂学",
+  "category": "中医教材",
+  "group": "中医教材",
+  "wordCount": 318514,
+  "chapterCount": 57
+ },
+ {
+  "id": "中医教材_温病学",
+  "title": "温病学",
+  "category": "中医教材",
+  "group": "中医教材",
+  "wordCount": 234659,
+  "chapterCount": 234
+ },
+ {
+  "id": "中医教材_病理学",
+  "title": "病理学",
+  "category": "中医教材",
+  "group": "中医教材",
+  "wordCount": 183228,
+  "chapterCount": 246
+ },
+ {
+  "id": "中医教材_经络腧穴学",
+  "title": "经络腧穴学",
+  "category": "中医教材",
+  "group": "中医教材",
+  "wordCount": 158273,
+  "chapterCount": 142
+ },
+ {
+  "id": "中医教材_腧穴解剖学",
+  "title": "腧穴解剖学",
+  "category": "中医教材",
+  "group": "中医教材",
+  "wordCount": 62247,
+  "chapterCount": 235
+ },
+ {
+  "id": "中医教材_药理学_中西医结合",
+  "title": "药理学 中西医结合",
+  "category": "中医教材",
+  "group": "中医教材",
+  "wordCount": 267159,
+  "chapterCount": 284
+ },
+ {
+  "id": "中医教材_药用植物学_第4版",
+  "title": "药用植物学  第4版",
+  "category": "中医教材",
+  "group": "中医教材",
+  "wordCount": 208618,
+  "chapterCount": 209
+ },
+ {
+  "id": "中医教材_诊断学_中西医",
+  "title": "诊断学 中西医",
+  "category": "中医教材",
+  "group": "中医教材",
+  "wordCount": 360541,
+  "chapterCount": 460
+ },
+ {
+  "id": "中医教材_针灸医籍选读",
+  "title": "针灸医籍选读",
+  "category": "中医教材",
+  "group": "中医教材",
+  "wordCount": 242715,
+  "chapterCount": 148
+ },
+ {
+  "id": "中医教材_针灸学_2",
+  "title": "针灸学",
+  "category": "中医教材",
+  "group": "中医教材",
+  "wordCount": 216545,
+  "chapterCount": 251
+ },
+ {
+  "id": "中医教材_针灸治疗学",
+  "title": "针灸治疗学",
+  "category": "中医教材",
+  "group": "中医教材",
+  "wordCount": 131978,
+  "chapterCount": 133
+ },
+ {
+  "id": "吴雄志_针灸六经法要_1-204",
+  "title": "针灸六经法要  1-204",
+  "category": "吴雄志",
+  "group": "吴雄志",
+  "wordCount": 400279,
+  "chapterCount": 347
+ },
+ {
+  "id": "吴雄志_脾胃研究_上部",
+  "title": "脾胃研究 上部",
+  "category": "吴雄志",
+  "group": "吴雄志",
+  "wordCount": 142252,
+  "chapterCount": 203
+ },
+ {
+  "id": "吴雄志_脾胃研究_下部",
+  "title": "脾胃研究 下部",
+  "category": "吴雄志",
+  "group": "吴雄志",
+  "wordCount": 118941,
+  "chapterCount": 78
+ },
+ {
+  "id": "吴雄志_吴雄志-中医脾胃病学-2001",
+  "title": "吴雄志-中医脾胃病学-2001",
+  "category": "吴雄志",
+  "group": "吴雄志",
+  "wordCount": 127741,
+  "chapterCount": 64
+ },
+ {
+  "id": "吴雄志_吴雄志-五法1749424639",
+  "title": "吴雄志-五法1749424639",
+  "category": "吴雄志",
+  "group": "吴雄志",
+  "wordCount": 8867,
+  "chapterCount": 1
+ },
+ {
+  "id": "吴雄志_中医时间学_火病原理_完整版",
+  "title": "中医时间学 火病原理  完整版",
+  "category": "吴雄志",
+  "group": "吴雄志",
+  "wordCount": 159874,
+  "chapterCount": 7
+ },
+ {
+  "id": "吴雄志_吴述诊法研究脉学",
+  "title": "吴述诊法研究脉学",
+  "category": "吴雄志",
+  "group": "吴雄志",
+  "wordCount": 168015,
+  "chapterCount": 98
+ },
+ {
+  "id": "吴雄志_吴述诊法研究、抓独法_A5_1-92",
+  "title": "吴述诊法研究、抓独法 A5 1-92",
+  "category": "吴雄志",
+  "group": "吴雄志",
+  "wordCount": 172360,
+  "chapterCount": 145
+ },
+ {
+  "id": "吴雄志_吴述温病研究_伏邪",
+  "title": "吴述温病研究 伏邪",
+  "category": "吴雄志",
+  "group": "吴雄志",
+  "wordCount": 169776,
+  "chapterCount": 133
+ },
+ {
+  "id": "吴雄志_中医各家学说温阳研究上篇_1-156",
+  "title": "中医各家学说温阳研究上篇 1-156",
+  "category": "吴雄志",
+  "group": "吴雄志",
+  "wordCount": 205133,
+  "chapterCount": 71
+ },
+ {
+  "id": "吴雄志_镜心斋校注伤寒论_A5_1-120",
+  "title": "镜心斋校注伤寒论   A5 1-120",
+  "category": "吴雄志",
+  "group": "吴雄志",
+  "wordCount": 121211,
+  "chapterCount": 88
+ },
+ {
+  "id": "吴雄志_中药药证学",
+  "title": "中药药证学",
+  "category": "吴雄志",
+  "group": "吴雄志",
+  "wordCount": 126024,
+  "chapterCount": 32
+ },
+ {
+  "id": "吴雄志_伤寒传习录_上部",
+  "title": "伤寒传习录(上部)",
+  "category": "吴雄志",
+  "group": "吴雄志",
+  "wordCount": 143969,
+  "chapterCount": 23
+ },
+ {
+  "id": "吴雄志_吴述伤寒论汇通_1-176",
+  "title": "吴述伤寒论汇通 1-176",
+  "category": "吴雄志",
+  "group": "吴雄志",
+  "wordCount": 245271,
+  "chapterCount": 62
+ },
+ {
+  "id": "吴雄志_吴述伤寒杂病论研究扫描版",
+  "title": "吴述伤寒杂病论研究扫描版",
+  "category": "吴雄志",
+  "group": "吴雄志",
+  "wordCount": 312692,
+  "chapterCount": 249
+ },
+ {
+  "id": "吴雄志_吴述伤寒杂病论研究",
+  "title": "吴述伤寒杂病论研究",
+  "category": "吴雄志",
+  "group": "吴雄志",
+  "wordCount": 314513,
+  "chapterCount": 168
+ },
+ {
+  "id": "吴雄志_重订伤寒杂病论_大字诵读版-吴雄志-2016",
+  "title": "重订伤寒杂病论  大字诵读版-吴雄志-2016",
+  "category": "吴雄志",
+  "group": "吴雄志",
+  "wordCount": 39865,
+  "chapterCount": 37
+ },
+ {
+  "id": "吴雄志_吴述重订伤寒杂病论上篇",
+  "title": "吴述重订伤寒杂病论上篇",
+  "category": "吴雄志",
+  "group": "吴雄志",
+  "wordCount": 445977,
+  "chapterCount": 182
+ },
+ {
+  "id": "吴雄志_吴述重订伤寒杂病论_下篇",
+  "title": "吴述重订伤寒杂病论  下篇",
+  "category": "吴雄志",
+  "group": "吴雄志",
+  "wordCount": 286842,
+  "chapterCount": 33
+ },
+ {
+  "id": "吴雄志_心经",
+  "title": "心经",
+  "category": "吴雄志",
+  "group": "吴雄志",
+  "wordCount": 129940,
+  "chapterCount": 3
+ },
+ {
+  "id": "吴雄志_内经",
+  "title": "内经",
+  "category": "吴雄志",
+  "group": "吴雄志",
+  "wordCount": 1972,
+  "chapterCount": 1
+ },
+ {
+  "id": "吴雄志_中医生理学_1-122",
+  "title": "中医生理学 1-122",
+  "category": "吴雄志",
+  "group": "吴雄志",
+  "wordCount": 139109,
+  "chapterCount": 105
+ },
+ {
+  "id": "吴雄志_华阳经",
+  "title": "华阳经",
+  "category": "吴雄志",
+  "group": "吴雄志",
+  "wordCount": 5294,
+  "chapterCount": 1
+ },
+ {
+  "id": "吴雄志_吴述中医神志病学",
+  "title": "吴述中医神志病学",
+  "category": "吴雄志",
+  "group": "吴雄志",
+  "wordCount": 71120,
+  "chapterCount": 99
+ },
+ {
+  "id": "吴雄志_吴述中医方剂学_吴雄志",
+  "title": "吴述中医方剂学 (吴雄志)",
+  "category": "吴雄志",
+  "group": "吴雄志",
+  "wordCount": 115689,
+  "chapterCount": 69
+ },
+ {
+  "id": "吴雄志_吴门奇穴神志",
+  "title": "吴门奇穴神志",
+  "category": "吴雄志",
+  "group": "吴雄志",
+  "wordCount": 81211,
+  "chapterCount": 35
+ },
+ {
+  "id": "吴雄志_温病针灸法要",
+  "title": "温病针灸法要",
+  "category": "吴雄志",
+  "group": "吴雄志",
+  "wordCount": 104442,
+  "chapterCount": 10
+ },
+ {
+  "id": "吴雄志_中医免疫学_1-148",
+  "title": "中医免疫学 1-148",
+  "category": "吴雄志",
+  "group": "吴雄志",
+  "wordCount": 172265,
+  "chapterCount": 87
+ },
+ {
+  "id": "吴雄志_中药药理学_吴雄志",
+  "title": "中药药理学  吴雄志",
+  "category": "吴雄志",
+  "group": "吴雄志",
+  "wordCount": 142273,
+  "chapterCount": 59
+ },
+ {
+  "id": "吴雄志_中医湿热病学_吴雄志",
+  "title": "中医湿热病学 吴雄志",
+  "category": "吴雄志",
+  "group": "吴雄志",
+  "wordCount": 212495,
+  "chapterCount": 28
+ },
+ {
+  "id": "吴雄志_消化系统肿瘤",
+  "title": "消化系统肿瘤",
+  "category": "吴雄志",
+  "group": "吴雄志",
+  "wordCount": 75798,
+  "chapterCount": 136
+ },
+ {
+  "id": "吴雄志_肿瘤中医治疗经验及医案精选",
+  "title": "肿瘤中医治疗经验及医案精选",
+  "category": "吴雄志",
+  "group": "吴雄志",
+  "wordCount": 86092,
+  "chapterCount": 91
+ },
+ {
+  "id": "吴雄志_肿瘤六经辨证法",
+  "title": "肿瘤六经辨证法",
+  "category": "吴雄志",
+  "group": "吴雄志",
+  "wordCount": 156182,
+  "chapterCount": 100
+ },
+ {
+  "id": "吴雄志_吴述伤寒杂病论研究_2",
+  "title": "吴述伤寒杂病论研究",
+  "category": "吴雄志",
+  "group": "吴雄志",
+  "wordCount": 264907,
+  "chapterCount": 266
+ },
+ {
+  "id": "吴雄志_吴门验方",
+  "title": "吴门验方",
+  "category": "吴雄志",
+  "group": "吴雄志",
+  "wordCount": 11673,
+  "chapterCount": 1
+ },
+ {
+  "id": "吴雄志_吴雄志老师处方的秘密",
+  "title": "吴雄志老师处方的秘密",
+  "category": "吴雄志",
+  "group": "吴雄志",
+  "wordCount": 833,
+  "chapterCount": 1
+ },
+ {
+  "id": "西医教材_内科学_心血管内科分册",
+  "title": "内科学 心血管内科分册",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 210080,
+  "chapterCount": 356
+ },
+ {
+  "id": "西医教材_急诊医学",
+  "title": "急诊医学",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 283620,
+  "chapterCount": 357
+ },
+ {
+  "id": "西医教材_皮肤性病学",
+  "title": "皮肤性病学",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 225072,
+  "chapterCount": 369
+ },
+ {
+  "id": "西医教材_精神病学",
+  "title": "精神病学",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 190023,
+  "chapterCount": 129
+ },
+ {
+  "id": "西医教材_外科学_普通外科分册",
+  "title": "外科学 普通外科分册",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 204113,
+  "chapterCount": 265
+ },
+ {
+  "id": "西医教材_外科学_神经外科分册",
+  "title": "外科学 神经外科分册",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 143787,
+  "chapterCount": 228
+ },
+ {
+  "id": "西医教材_外科学_胸心外科分册",
+  "title": "外科学 胸心外科分册",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 110971,
+  "chapterCount": 147
+ },
+ {
+  "id": "西医教材_内科学_呼吸与危重症医学科分册",
+  "title": "内科学 呼吸与危重症医学科分册",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 215276,
+  "chapterCount": 156
+ },
+ {
+  "id": "西医教材_外科学整形外科分册",
+  "title": "外科学整形外科分册",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 178543,
+  "chapterCount": 293
+ },
+ {
+  "id": "西医教材_小儿外科学",
+  "title": "小儿外科学",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 279767,
+  "chapterCount": 370
+ },
+ {
+  "id": "西医教材_妇产科学",
+  "title": "妇产科学",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 257109,
+  "chapterCount": 276
+ },
+ {
+  "id": "西医教材_眼科学",
+  "title": "眼科学",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 249128,
+  "chapterCount": 437
+ },
+ {
+  "id": "西医教材_耳鼻咽喉头颈外科学",
+  "title": "耳鼻咽喉头颈外科学",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 250787,
+  "chapterCount": 231
+ },
+ {
+  "id": "西医教材_临床病理学",
+  "title": "临床病理学",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 470870,
+  "chapterCount": 871
+ },
+ {
+  "id": "西医教材_放射影像学",
+  "title": "放射影像学",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 168470,
+  "chapterCount": 475
+ },
+ {
+  "id": "西医教材_内科学_消化内科分册",
+  "title": "内科学 消化内科分册",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 83949,
+  "chapterCount": 167
+ },
+ {
+  "id": "西医教材_肿瘤放射治疗学",
+  "title": "肿瘤放射治疗学",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 290189,
+  "chapterCount": 348
+ },
+ {
+  "id": "西医教材_预防医学",
+  "title": "预防医学",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 216702,
+  "chapterCount": 332
+ },
+ {
+  "id": "西医教材_口腔医学_口腔内科分册",
+  "title": "口腔医学 口腔内科分册",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 135616,
+  "chapterCount": 264
+ },
+ {
+  "id": "西医教材_口腔医学_口腔颌面外科分册",
+  "title": "口腔医学 口腔颌面外科分册",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 165750,
+  "chapterCount": 410
+ },
+ {
+  "id": "西医教材_内科学_血液内科分册",
+  "title": "内科学 血液内科分册",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 139543,
+  "chapterCount": 149
+ },
+ {
+  "id": "西医教材_口腔医学_口腔病理科分册",
+  "title": "口腔医学 口腔病理科分册",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 234193,
+  "chapterCount": 565
+ },
+ {
+  "id": "西医教材_口腔医学_口腔颌面影像科分册",
+  "title": "口腔医学 口腔颌面影像科分册",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 184241,
+  "chapterCount": 370
+ },
+ {
+  "id": "西医教材_重症医学",
+  "title": "重症医学",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 144074,
+  "chapterCount": 103
+ },
+ {
+  "id": "西医教材_循证医学",
+  "title": "循证医学",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 130423,
+  "chapterCount": 208
+ },
+ {
+  "id": "西医教材_医学科研方法",
+  "title": "医学科研方法",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 115916,
+  "chapterCount": 225
+ },
+ {
+  "id": "西医教材_医学伦理学实践",
+  "title": "医学伦理学实践",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 117711,
+  "chapterCount": 123
+ },
+ {
+  "id": "西医教材_医患沟通技能训练",
+  "title": "医患沟通技能训练",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 179110,
+  "chapterCount": 157
+ },
+ {
+  "id": "西医教材_住院医师英语手册",
+  "title": "住院医师英语手册",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 301609,
+  "chapterCount": 258
+ },
+ {
+  "id": "西医教材_内科学_肾脏内科分册",
+  "title": "内科学 肾脏内科分册",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 232109,
+  "chapterCount": 336
+ },
+ {
+  "id": "西医教材_内科学_内分泌科分册",
+  "title": "内科学 内分泌科分册",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 106174,
+  "chapterCount": 167
+ },
+ {
+  "id": "西医教材_内科学_风湿免疫科分册",
+  "title": "内科学 风湿免疫科分册",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 130444,
+  "chapterCount": 144
+ },
+ {
+  "id": "西医教材_内科学_感染科分册",
+  "title": "内科学 感染科分册",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 278186,
+  "chapterCount": 385
+ },
+ {
+  "id": "西医教材_儿科学",
+  "title": "儿科学",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 390409,
+  "chapterCount": 435
+ },
+ {
+  "id": "西医教材_临床诊疗指南_—_传染病学分册",
+  "title": "临床诊疗指南 — 传染病学分册",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 106108,
+  "chapterCount": 23
+ },
+ {
+  "id": "西医教材_临床诊疗指南_—_免疫学分册",
+  "title": "临床诊疗指南 — 免疫学分册",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 117516,
+  "chapterCount": 35
+ },
+ {
+  "id": "西医教材_临床诊疗指南_—_内分泌及代谢性疾病分册",
+  "title": "临床诊疗指南 — 内分泌及代谢性疾病分册",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 41094,
+  "chapterCount": 33
+ },
+ {
+  "id": "西医教材_临床诊疗指南_—_呼吸病学分册",
+  "title": "临床诊疗指南 — 呼吸病学分册",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 70795,
+  "chapterCount": 27
+ },
+ {
+  "id": "西医教材_临床诊疗指南_—_外科学分册",
+  "title": "临床诊疗指南 — 外科学分册",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 97992,
+  "chapterCount": 42
+ },
+ {
+  "id": "西医教材_临床诊疗指南_—_妇产科学分册",
+  "title": "临床诊疗指南 — 妇产科学分册",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 80136,
+  "chapterCount": 39
+ },
+ {
+  "id": "西医教材_临床诊疗指南_—_小儿内科分册",
+  "title": "临床诊疗指南 — 小儿内科分册",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 143739,
+  "chapterCount": 88
+ },
+ {
+  "id": "西医教材_临床诊疗指南_—_小儿外科学分册",
+  "title": "临床诊疗指南 — 小儿外科学分册",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 86264,
+  "chapterCount": 15
+ },
+ {
+  "id": "西医教材_临床诊疗指南_—_急诊医学分册",
+  "title": "临床诊疗指南 — 急诊医学分册",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 144748,
+  "chapterCount": 354
+ },
+ {
+  "id": "西医教材_临床诊疗指南_—_整形外科学分册",
+  "title": "临床诊疗指南 — 整形外科学分册",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 80148,
+  "chapterCount": 38
+ },
+ {
+  "id": "西医教材_临床诊疗指南_—_消化系统疾病分册",
+  "title": "临床诊疗指南 — 消化系统疾病分册",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 38986,
+  "chapterCount": 99
+ },
+ {
+  "id": "西医教材_临床诊疗指南_—_激光医学分册",
+  "title": "临床诊疗指南 — 激光医学分册",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 42791,
+  "chapterCount": 48
+ },
+ {
+  "id": "西医教材_临床诊疗指南_—_烧伤外科学分册",
+  "title": "临床诊疗指南 — 烧伤外科学分册",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 127832,
+  "chapterCount": 59
+ },
+ {
+  "id": "西医教材_临床诊疗指南_—_物理医学与康复分册",
+  "title": "临床诊疗指南 — 物理医学与康复分册",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 152893,
+  "chapterCount": 116
+ },
+ {
+  "id": "西医教材_临床诊疗指南_—_疼痛学分册",
+  "title": "临床诊疗指南 — 疼痛学分册",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 164462,
+  "chapterCount": 29
+ },
+ {
+  "id": "西医教材_临床诊疗指南_—_癫痫病分册",
+  "title": "临床诊疗指南 — 癫痫病分册",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 66507,
+  "chapterCount": 38
+ },
+ {
+  "id": "西医教材_临床诊疗指南_—_皮肤病与性病分册",
+  "title": "临床诊疗指南 — 皮肤病与性病分册",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 47687,
+  "chapterCount": 27
+ },
+ {
+  "id": "西医教材_临床诊疗指南_—_眼科学分册",
+  "title": "临床诊疗指南 — 眼科学分册",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 67265,
+  "chapterCount": 116
+ },
+ {
+  "id": "西医教材_临床诊疗指南_—_神经病学分册",
+  "title": "临床诊疗指南 — 神经病学分册",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 101120,
+  "chapterCount": 17
+ },
+ {
+  "id": "西医教材_临床诊疗指南_—_精神病学分册",
+  "title": "临床诊疗指南 — 精神病学分册",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 31065,
+  "chapterCount": 25
+ },
+ {
+  "id": "西医教材_临床诊疗指南_—_结核病分册",
+  "title": "临床诊疗指南 — 结核病分册",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 40600,
+  "chapterCount": 26
+ },
+ {
+  "id": "西医教材_临床诊疗指南_—_美容医学分册",
+  "title": "临床诊疗指南 — 美容医学分册",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 101330,
+  "chapterCount": 27
+ },
+ {
+  "id": "西医教材_临床诊疗指南_—_耳鼻咽喉头颈外科分册",
+  "title": "临床诊疗指南 — 耳鼻咽喉头颈外科分册",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 132304,
+  "chapterCount": 244
+ },
+ {
+  "id": "西医教材_临床诊疗指南_—_肠外肠内营养分册",
+  "title": "临床诊疗指南 — 肠外肠内营养分册",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 65309,
+  "chapterCount": 20
+ },
+ {
+  "id": "西医教材_临床诊疗指南_—_肾脏病学分册",
+  "title": "临床诊疗指南 — 肾脏病学分册",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 174248,
+  "chapterCount": 136
+ },
+ {
+  "id": "西医教材_临床诊疗指南_—_血液学分册",
+  "title": "临床诊疗指南 — 血液学分册",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 65458,
+  "chapterCount": 19
+ },
+ {
+  "id": "西医教材_临床诊疗指南_—_风湿病分册",
+  "title": "临床诊疗指南 — 风湿病分册",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 57804,
+  "chapterCount": 24
+ },
+ {
+  "id": "西医教材_临床诊疗指南_—_骨科分册",
+  "title": "临床诊疗指南 — 骨科分册",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 51813,
+  "chapterCount": 67
+ },
+ {
+  "id": "西医教材_临床诊疗指南_—_骨质疏松症和骨矿盐疾病分册",
+  "title": "临床诊疗指南 — 骨质疏松症和骨矿盐疾病分册",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 22335,
+  "chapterCount": 12
+ },
+ {
+  "id": "西医教材_临床诊疗指南_辅助生殖技术与精子库分册_黄",
+  "title": "临床诊疗指南 辅助生殖技术与精子库分册 黄...",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 62603,
+  "chapterCount": 79
+ },
+ {
+  "id": "西医教材_临床诊疗指南_手外科学分册",
+  "title": "临床诊疗指南 手外科学分册",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 35575,
+  "chapterCount": 56
+ },
+ {
+  "id": "西医教材_临床诊疗指南_放射学检查技术分册",
+  "title": "临床诊疗指南 放射学检查技术分册",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 69517,
+  "chapterCount": 121
+ },
+ {
+  "id": "西医教材_临床诊疗指南_放射肿瘤学分册",
+  "title": "临床诊疗指南 放射肿瘤学分册",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 42340,
+  "chapterCount": 18
+ },
+ {
+  "id": "西医教材_临床诊疗指南_胸外科分册",
+  "title": "临床诊疗指南 胸外科分册",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 49772,
+  "chapterCount": 33
+ },
+ {
+  "id": "西医教材_临床诊疗指南_计划生育分册",
+  "title": "临床诊疗指南 计划生育分册",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 34505,
+  "chapterCount": 62
+ },
+ {
+  "id": "西医教材_临床诊疗指南_麻醉分册",
+  "title": "临床诊疗指南 麻醉分册",
+  "category": "西医教材",
+  "group": "西医教材",
+  "wordCount": 23359,
+  "chapterCount": 57
+ }
+]
