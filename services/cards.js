@@ -7,7 +7,10 @@ import { scheduleNext, isDue } from '../utils/review.js'
 const LOCAL_BASE = '/static/content/'
 // 小程序端：把 public/static/content 上传到任意静态托管后，将此处改为该 https 地址
 // （例如 'https://your-cdn.com/cards/'）。留空字符串则使用本地 /static/content/（桌面端）。
-export const CARD_BASE = ''
+// 小程序端（mp-weixin）走 GitHub Pages 远程卡片，其余（h5 / 桌面）用本地打包的 static。
+// UNI_PLATFORM 由 uni-app 在编译期替换为字面量，运行时即确定值。
+const IS_MP = (typeof process !== 'undefined' && process.env && process.env.UNI_PLATFORM === 'mp-weixin')
+export const CARD_BASE = IS_MP ? 'https://635422176-beep.github.io/yilu-jiayou/static/content/' : ''
 const BASE = CARD_BASE || LOCAL_BASE
 let _manifest = null
 const _bookCache = {}

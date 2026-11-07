@@ -28,3 +28,6 @@ static/_content_local/
 # 部署用副本在 static/content/，不进仓库）
 # 注意：必须用前导斜杠 /content/，避免误伤 static/content/
 /content/
+
+# 便携版解压目录（由 7z 解压产生，体积大且不进仓库）
+益禄加油-win便携版-*/
