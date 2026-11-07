@@ -23,3 +23,8 @@ Thumbs.db
 
 # 本地临时
 static/_content_local/
+
+# 原始内容源目录（含 124MB 全量 all_cards.json 与 97MB 原书，仅用于本地再生成；
+# 部署用副本在 static/content/，不进仓库）
+# 注意：必须用前导斜杠 /content/，避免误伤 static/content/
+/content/
